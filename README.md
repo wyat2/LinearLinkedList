@@ -1,6 +1,6 @@
-# LinearLinkedList
-Linear Linked List
+# Linear Linked List
+## Basic LLL with nodes
 
--build Linear linked list
--display list
--destroy list
+- build Linear linked list
+- display list
+- destroy list
